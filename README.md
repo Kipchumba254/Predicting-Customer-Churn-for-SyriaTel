@@ -6,17 +6,29 @@ This project aims to build a classifier to predict whether a customer will ("soo
 
 # Tech Stack
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn 
+
 DecisionTreeClassifier
+
 LogisticRegression
+
 GridSearchCV 
+
 StandardScaler
+
 Accuracy Score, Precision, Recall, F1-Score
+
 Confusion Matrix
+
 Classification Report
 
 # Business Understanding
@@ -24,10 +36,12 @@ The loss of customers in a company such as SyriaTel means loss of revenue and in
 
 ## Key Business Questions
 What are some of the factors that contribute to customer dropout?
+
 How can SyriaTel leverage on these factors to come up with solutions?
 
 # Data Understanding
 The dataset consists of customer records from SyriaTel, a telecommunications company with features that help predict whether a customer will stop using the service.
+
 This dataset was sourced from (https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset) with key features such as:
 -Account length
 -Area code
