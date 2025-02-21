@@ -2,6 +2,7 @@
 This project aims to build a classifier to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. This is a binary classification problem with 2 possible outcomes:
 
 -The customer will soon stop doing business with SyriaTel.
+
 -The customer will not stop doing business with SyriaTel.
 
 # Tech Stack
@@ -32,7 +33,9 @@ Confusion Matrix
 Classification Report
 
 # Business Understanding
-The loss of customers in a company such as SyriaTel means loss of revenue and increased costs since acquiring new customers is more expensive than retaining existing ones. Predicting customer dropout in advance helps SyriaTel identify high-risk customers early therefore implementing cost-effective retention strategies leading to reduced revenue loss and improved customer satisfaction which leads to profitability to the telecommunication company.
+The loss of customers in a company such as SyriaTel means loss of revenue and increased costs since acquiring new customers is more expensive than retaining existing ones.
+
+Predicting customer dropout in advance helps SyriaTel identify high-risk customers early therefore implementing cost-effective retention strategies leading to reduced revenue loss and improved customer satisfaction which leads to profitability to the telecommunication company.
 
 ## Key Business Questions
 What are some of the factors that contribute to customer dropout?
