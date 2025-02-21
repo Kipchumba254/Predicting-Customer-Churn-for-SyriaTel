@@ -94,6 +94,30 @@ Best Decision Tree Performance:
    macro avg       0.89      0.85      0.87       667
 weighted avg       0.93      0.94      0.93       667
 
+# Conclusion
+## Findings
+Our analysis developed a churn prediction model for SyriaTel, achieving a high accuracy of 93.55% using a tuned Decision Tree Classifier.
+
+About 95% of customers predicted as non-churners was actually correct while 82% of those predicted as churners was equally correct(Precision).
+
+The model identifies 97% of non-churners and 73% of churners correctly meaning it still misses a percentage of churners(Recall).
+
+The model has a higher f1_score of 96% meaning it identifies non-churners with ease as compared to churners.
+
+## Recommendations
+1.Since recall for churners is 73%, the model correctly identifies many customers who are likely to leave. SyriaTel can target these high risk customers by offering discounts or improved customer service.
+
+2.Ensure high-risk customers complaints are resolved in the shortest time possible and this reduces frustations among them.
+
+3.If certain area codes have a significantly higher churn rate, SyriaTel should investigate whether these regions have poorer service quality, limited coverage, or strong competitors.
+
+4.The company can reach out to high-usage customers with special offers which prevents churn.
+
+5.From our findings we can see that the recall for churners is only 73%, meaning that 27% of actual churners are being misclassified as customers who will stay. To resolve this issue, we can train the model on more behavioural data since they change over time thus helping to refine our predictions.
+
+# Summary
+Customer churn is a major challenge for SyriaTel impacting revenue and long-term growth. Using machine learning, we built a Decision Tree classifier that achieved 93.55% accuracy, effectively predicting which customers are likely to stop using services provided by SyriaTel. By taking note of these insights, SyriaTel can make steps to reduce churn, increase customer satisfaction and maximize revenue.
+
 
 
 
