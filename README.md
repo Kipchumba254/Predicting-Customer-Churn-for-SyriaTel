@@ -6,31 +6,31 @@ This project aims to build a classifier to predict whether a customer will ("soo
 -The customer will not stop doing business with SyriaTel.
 
 # Tech Stack
-Python
+-Python
 
-Pandas
+-Pandas
 
-NumPy
+-NumPy
 
-Matplotlib
+-Matplotlib
 
-Seaborn
+-Seaborn
 
-Scikit-learn 
+-Scikit-learn 
 
-DecisionTreeClassifier
+-DecisionTreeClassifier
 
-LogisticRegression
+-LogisticRegression
 
-GridSearchCV 
+-GridSearchCV 
 
-StandardScaler
+-StandardScaler
 
-Accuracy Score, Precision, Recall, F1-Score
+-Accuracy Score, Precision, Recall, F1-Score
 
-Confusion Matrix
+-Confusion Matrix
 
-Classification Report
+-Classification Report
 
 # Business Understanding
 The loss of customers in a company such as SyriaTel means loss of revenue and increased costs since acquiring new customers is more expensive than retaining existing ones.
