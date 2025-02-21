@@ -80,6 +80,10 @@ We also used a confusion matrix which was not suitable for identifying churn due
 
 ![Alt text](https://github.com/Kipchumba254/Predicting-Customer-Churn-for-SyriaTel/blob/main/Screenshot%202025-02-21%20213917.png)
 
+GridSearch, a hyperparameter tuning technique in decision trees was used to developed a churn prediction model for SyriaTel achieving a high accuracy of 93.55%.
+
+
+
 
 
 
