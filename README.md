@@ -47,14 +47,23 @@ The dataset consists of customer records from SyriaTel, a telecommunications com
 
 This dataset was sourced from (https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset) with key features such as:
 -Account length
+
 -Area code
+
 -Phone number
+
 -Total day calls
+
 -Total intl calls
+
 -Customer service calls
+
 -Number vmail messages
+
 -International plan
+
 -Total night minutes
+
 Understanding these patterns helps in building a predictive model that assists SyriaTel in retaining valuable customers.
 
 # Data Analysis
