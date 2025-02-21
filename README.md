@@ -68,4 +68,5 @@ Understanding these patterns helps in building a predictive model that assists S
 
 # Data Analysis
 The most important features were visualized as follows;
+![Alt text](https://github.com/Kipchumba254/Predicting-Customer-Churn-for-SyriaTel/blob/main/Screenshot%202025-02-21%20213917.png)
 
