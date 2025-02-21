@@ -71,3 +71,10 @@ The most important features were visualized as follows;
 
 ![Alt text](https://github.com/Kipchumba254/Predicting-Customer-Churn-for-SyriaTel/blob/main/Screenshot%202025-02-21%20202416.png)
 
+## Modeling
+In this case, our baseline model was Logistic Regression. We obtained a better/ higher AUC in the model after solving class imbalance with SMOTE thus improving the model's performance on the minority class which in this case is churn.
+
+
+
+
+
