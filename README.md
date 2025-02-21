@@ -68,3 +68,4 @@ Understanding these patterns helps in building a predictive model that assists S
 
 # Data Analysis
 The most important features were visualized as follows;
+![Bar Graph](bar_graph.png)
