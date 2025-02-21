@@ -68,4 +68,4 @@ Understanding these patterns helps in building a predictive model that assists S
 
 # Data Analysis
 The most important features were visualized as follows;
-![Churn Distribution](churn_distribution.png) 
+![Alt text](https://github.com/Kipchumba254/Predicting-Customer-Churn-for-SyriaTel/blob/main/Capture.JPG)
