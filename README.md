@@ -76,6 +76,10 @@ In this case, our baseline model was Logistic Regression. We obtained a better/ 
 
 ![Alt text](https://github.com/Kipchumba254/Predicting-Customer-Churn-for-SyriaTel/blob/main/Screenshot%202025-02-21%20220745.png)
 
+We also used a confusion matrix which was not suitable for identifying churn due to a poor f1-score indicating a poor performance of the model.
+
+
+
 
 
 
