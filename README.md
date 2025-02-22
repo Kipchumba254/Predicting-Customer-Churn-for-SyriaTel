@@ -90,7 +90,7 @@ Best Decision Tree Performance:
            0       0.95      0.97      0.96       566
            1       0.82      0.73      0.77       101
 
-    accuracy                           0.94       667
+   accuracy                           0.94       667
    macro avg       0.89      0.85      0.87       667
 weighted avg       0.93      0.94      0.93       667
 
